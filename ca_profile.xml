@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Logo>https://raw.githubusercontent.com/refringe/huntarr2-unraid/main/templates/img/huntarr2.png</Logo>
+  <ProfileStatement>Maintainer of the Huntarr2 project, an automated quality upgrade search tool for the *arr ecosystem.</ProfileStatement>
+</CommunityApplications>
